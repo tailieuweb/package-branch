@@ -1,0 +1,24 @@
+{
+    "name": "foostart/package-branch",
+    "description": "Manage branch",
+    "keywords": [
+        "foostart",
+        "Laravel 9x"
+    ],
+    "authors": [
+        {
+            "name": "FooStart",
+            "email": "foostart.com@gmail.com",
+            "homepage": "http://foostart.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Foostart\\Branch\\": "/"
+        }
+    },
+    "minimum-stability": "dev"
+}
